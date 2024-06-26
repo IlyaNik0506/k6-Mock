@@ -1,0 +1,14 @@
+[
+    {
+        "path": "/RReq",
+        "name": "MIG_1",
+        "delay": 0
+    },
+    {
+        "path": "/AReq",
+        "name": "MIG_2",
+        "delay": 0
+    }
+]
+  
+  
